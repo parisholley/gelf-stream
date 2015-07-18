@@ -17,7 +17,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "gelfling": "~0.2.0"
+    "gelfling": "git://github.com/parisholley/gelfling.git#paris"
   },
   "devDependencies": {
     "mocha": "^2.2.5",
